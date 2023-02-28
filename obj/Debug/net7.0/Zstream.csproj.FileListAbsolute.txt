@@ -1,0 +1,15 @@
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\bin\Debug\net7.0\Zstream.exe
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\bin\Debug\net7.0\Zstream.deps.json
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\bin\Debug\net7.0\Zstream.runtimeconfig.json
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\bin\Debug\net7.0\Zstream.dll
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\bin\Debug\net7.0\Zstream.pdb
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.csproj.AssemblyReference.cache
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.AssemblyInfoInputs.cache
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.AssemblyInfo.cs
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.csproj.CoreCompileInputs.cache
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.dll
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\refint\Zstream.dll
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.pdb
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\Zstream.genruntimeconfig.cache
+C:\Users\zirox\OneDrive\Escritorio\projects\Zirox\sockets\Zstream\obj\Debug\net7.0\ref\Zstream.dll
